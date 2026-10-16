@@ -18,3 +18,5 @@ pull shark step 4
 pull shark step 5
 
 pull shark step 6
+
+pull shark step 7
