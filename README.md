@@ -27,3 +27,4 @@ pull shark step 8
 pull shark step 9
 
 pull shark step 10
+verified co-author sync
